@@ -24,7 +24,7 @@ Reinforcement Learning and its connections with Causality, Language Grounding an
 *Vladislav Kurenkov, Hany Hamed, Sergei Savin*  
 [[arXiv]](https://arxiv.org/abs/2004.02641){:target="_blank"} [[ieee]](https://ieeexplore.ieee.org/document/9111973/){:target="_blank"} [[src]](https://github.com/hany606/tensegrity-vertical-stability){:target="_blank"}
 
-1. [RU] **Mathematical Modeling of Tensegrity Robots with Rigid Rods** 
+1. [RU] **Mathematical Modeling of Tensegrity Robots with Rigid Rods**  
 *Computer Research and Modeling, 2020*  
 *Sergei Savin, Lyudmila Vorochaeva, Vladislav Kurenkov*  
 [[src]](https://github.com/vkurenkov/tensegrity/){:target="_blank"}
