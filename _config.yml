@@ -1,5 +1,5 @@
 title: Vladislav Kurenkov
-url: "https://ankitsultana.com"
+url: "https://vkurenkov.me"
 baseurl: "/"
 
 markdown: kramdown
@@ -20,5 +20,3 @@ nav:
    link: "/"
  - name: "Resume"
    link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
