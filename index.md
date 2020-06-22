@@ -6,7 +6,8 @@ layout: default
 
 <img class="profile-picture" src="avatar.png">
 
-Hi! I am a junior research engineer at [Mechatronics, Control and Prototyping lab, Innopolis University](https://robotics.innopolis.university/en/).
+*Currently looking for a Master/PhD position connected to my research interests.*  
+Hi! I am a junior research engineer at [Mechatronics, Control and Prototyping lab, Innopolis University](https://robotics.innopolis.university/en/). Don't hesitate to contact me, I am totally open to any kind of collaborations. 
 
 ## Research Interests
 
@@ -16,7 +17,7 @@ Reinforcement Learning and its connections with Causality, Language Grounding an
 1. **Task-Oriented Language Grounding for Language Input with Multiple Sub-Goals of Non-Linear Order**  
 *[EEML](https://www.eeml.eu/), 2020*  
 *Vladislav Kurenkov, Bulat Maksudov, Adil Khan*  
-[[arXiv](https://arxiv.org/abs/1910.12354)] [[src]](https://github.com/vkurenkov/language-grounding-multigoal)
+[[arXiv]](https://arxiv.org/abs/1910.12354) [[src]](https://github.com/vkurenkov/language-grounding-multigoal)
 
 1. **Learning Stabilizing Control Policies for a Tensegrity Hopper with Augmented Random Search**  
 *IEEE ICIEAM, 2020*  
