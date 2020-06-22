@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="avatar.png">
 
-*Currently looking for a Master/PhD position connected to my research interests.*  
+[*Looking for a Master/PhD position.*]  
 Hi! I am a junior research engineer at [Mechatronics, Control and Prototyping lab, Innopolis University](https://robotics.innopolis.university/en/). Don't hesitate to contact me, I am totally open to any kind of collaborations. 
 
 ## Research Interests
