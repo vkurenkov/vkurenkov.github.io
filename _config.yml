@@ -20,3 +20,5 @@ nav:
    link: "/"
  - name: "Resume"
    link: "resume.pdf"
+ - name: "Github"
+   link: "https://github.com/vkurenkov"
