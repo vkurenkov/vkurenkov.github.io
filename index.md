@@ -33,4 +33,4 @@ Reinforcement Learning and its connections with Causality, Language Grounding an
 
 * Email: v[dot]kurenkov{at}innopolis{dot}ru
 * Telegram: [@vkurenkov](https://t.me/vkurenkov){:target="_blank"}
-* Twitter: [vladkurenkov](twitter.com/vladkurenkov){:target="_blank"}
+* Twitter: [vladkurenkov](https://twitter.com/vladkurenkov){:target="_blank"}
