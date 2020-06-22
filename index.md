@@ -13,7 +13,8 @@ Hi! I am a junior research engineer at [Mechatronics, Control and Prototyping la
 Reinforcement Learning and its connections with Causality, Language Grounding and Sim2Real.
 
 ## Publications
-1. **Task-Oriented Language Grounding for Language Input with Multiple Sub-Goals of Non-Linear Order** *to be presented at [EEML](https://www.eeml.eu/), 2020*  
+1. Task-Oriented Language Grounding for Language Input with Multiple Sub-Goals of Non-Linear Order  
+*to be presented at [EEML](https://www.eeml.eu/), 2020*  
 *Vladislav Kurenkov, Bulat Maksudov, Adil Khan*  
 [[arXiv](https://arxiv.org/abs/1910.12354)] [[src]](https://github.com/vkurenkov/language-grounding-multigoal)
 
