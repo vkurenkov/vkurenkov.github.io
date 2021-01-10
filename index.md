@@ -27,7 +27,7 @@ Reinforcement Learning and its connections with Causality, Language Grounding an
 1. [RU] **Mathematical Modeling of Tensegrity Robots with Rigid Rods**  
 *Computer Research and Modeling, 2020*  
 *Sergei Savin, Lyudmila Vorochaeva, Vladislav Kurenkov*  
-[[src]](https://github.com/vkurenkov/tensegrity/){:target="_blank"}
+[[mathnet]](http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=crm&paperid=819&option_lang=eng){:target="_blank"} [[src]](https://github.com/vkurenkov/tensegrity/){:target="_blank"}
 
 ## Pet Projects
 
