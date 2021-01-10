@@ -29,6 +29,11 @@ Reinforcement Learning and its connections with Causality, Language Grounding an
 *Sergei Savin, Lyudmila Vorochaeva, Vladislav Kurenkov*  
 [[src]](https://github.com/vkurenkov/tensegrity/){:target="_blank"}
 
+## Pet Projects
+
+* [Telegram Channel] [causality links](https://t.me/causality_links){:target="_blank"} (A collection of links to the resources I found interesting in regard to Causality)
+* [Telegram Channel] [Екатерина Шульман (нейро)](https://t.me/eschulmann_neuro){:target="_blank"}
+
 ## Contact
 
 * Email: v[dot]kurenkov{at}innopolis{dot}ru
