@@ -6,12 +6,13 @@ layout: default
 
 <img class="profile-picture" src="avatar.png">
 
-[*Looking for a Master/PhD position.*]  
-Hi! I am a junior research engineer at [Mechatronics, Control and Prototyping lab, Innopolis University](https://robotics.innopolis.university/en/){:target="_blank"}. Don't hesitate to contact me, I am open to any kind of collaboration. 
+Researching Offline Reinforcement Learning and its applications at Tinkoff.
 
 ## Research Interests
 
-Reinforcement Learning and its connections with Causality, Language Grounding and Sim2Real.
+- Reinforcement Learning (esp. Offline)
+- Causality (applications to out-of-distribution generalization, transfer learning)
+- Recommender Systems (esp. using Reinforcement Learning)
 
 ## Publications
 1. **Task-Oriented Language Grounding for Language Input with Multiple Sub-Goals of Non-Linear Order**  
