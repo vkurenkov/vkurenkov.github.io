@@ -15,10 +15,16 @@ Researching Offline Reinforcement Learning and its applications at Tinkoff.
 - Recommender Systems (esp. using Reinforcement Learning)
 
 ## Publications
+1. **Showing Your Offline Reinforcement Learning Work: Online Evaluation Budget Matters**  
+*[NeurIPS, 2nd Offline Reinforcement Learning Workshop](https://offline-rl-neurips.github.io/2021/index.html){:target="_blank"}, 2021*  
+*Vladislav Kurenkov, Sergey Kolesnikov*  
+[[arXiv]](https://arxiv.org/abs/2110.04156){:target="_blank"}
+
 1. **Guiding Evolutionary Strategies by Differentiable Robot Simulators**  
 *[NeurIPS, 4th Robot Learning Workshop](http://www.robot-learning.ml/2021/){:target="_blank"}, 2021*  
 *Vladislav Kurenkov, Bulat Maksudov*  
 [[arXiv]](https://arxiv.org/abs/2110.00438){:target="_blank"}
+
 1. **Task-Oriented Language Grounding for Language Input with Multiple Sub-Goals of Non-Linear Order**  
 *[EEML](https://www.eeml.eu/){:target="_blank"}, 2020*  
 *Vladislav Kurenkov, Bulat Maksudov, Adil Khan*  
