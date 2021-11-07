@@ -23,7 +23,7 @@ Researching Offline Reinforcement Learning and its applications at Tinkoff.
 1. **Guiding Evolutionary Strategies by Differentiable Robot Simulators**  
 *[NeurIPS, 4th Robot Learning Workshop](http://www.robot-learning.ml/2021/){:target="_blank"}, 2021*  
 *Vladislav Kurenkov, Bulat Maksudov*  
-[[arXiv]](https://arxiv.org/abs/2110.00438){:target="_blank"}
+[[arXiv]](https://arxiv.org/abs/2110.00438){:target="_blank"} [[src]](https://github.com/vkurenkov/guided-es-by-differentiable-simulators){:target="_blank"}
 
 1. **Task-Oriented Language Grounding for Language Input with Multiple Sub-Goals of Non-Linear Order**  
 *[EEML](https://www.eeml.eu/){:target="_blank"}, 2020*  
