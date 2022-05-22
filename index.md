@@ -15,15 +15,16 @@ Researching Offline Reinforcement Learning and its applications at Tinkoff.
 - Recommender Systems (esp. using Reinforcement Learning)
 
 ## Publications
+1. **Showing Your Offline Reinforcement Learning Work: Online Evaluation Budget Matters**   
+**(Spotlight)** ICML, 2022  
+*[NeurIPS, 2nd Offline Reinforcement Learning Workshop](https://offline-rl-neurips.github.io/2021/index.html){:target="_blank"}, 2021*  
+*Vladislav Kurenkov, Sergey Kolesnikov*  
+[[arXiv]](https://arxiv.org/abs/2110.04156){:target="_blank"}
+
 1. **Prompts and Pre-Trained Language Models for Offline Reinforcement Learning**   
 *[ICLR, Workshop on Generalizable Policy Learning in the Physical World](https://ai-workshops.github.io/generalizable-policy-learning-in-the-physical-world/){:target="_blank"}, 2022*   
 *[ACL, Workshop on Learning with Natural Language Supervision](https://sites.google.com/princeton.edu/nl-supervision/home?authuser=0){:target="_blank"}, 2022*   
 *Denis Tarasov, Vladislav Kurenkov, Sergey Kolesnikov*
-
-1. **Showing Your Offline Reinforcement Learning Work: Online Evaluation Budget Matters**  
-*[NeurIPS, 2nd Offline Reinforcement Learning Workshop](https://offline-rl-neurips.github.io/2021/index.html){:target="_blank"}, 2021*  
-*Vladislav Kurenkov, Sergey Kolesnikov*  
-[[arXiv]](https://arxiv.org/abs/2110.04156){:target="_blank"}
 
 1. **Guiding Evolutionary Strategies by Differentiable Robot Simulators**  
 *[NeurIPS, 4th Robot Learning Workshop](http://www.robot-learning.ml/2021/){:target="_blank"}, 2021*  
