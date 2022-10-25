@@ -16,7 +16,7 @@ Researching Offline Reinforcement Learning and its applications at Tinkoff.
 
 ## Publications
 1. **Showing Your Offline Reinforcement Learning Work: Online Evaluation Budget Matters**   
-**(Spotlight)** ICML, 2022  
+*[ICML, 2022, Spotlight](https://proceedings.mlr.press/v162/kurenkov22a.html){:target="_blank"}, 2022*       
 *[NeurIPS, 2nd Offline Reinforcement Learning Workshop](https://offline-rl-neurips.github.io/2021/index.html){:target="_blank"}, 2021*  
 *Vladislav Kurenkov, Sergey Kolesnikov*  
 [[arXiv]](https://arxiv.org/abs/2110.04156){:target="_blank"}
