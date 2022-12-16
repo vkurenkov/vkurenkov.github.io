@@ -15,6 +15,16 @@ Researching Offline Reinforcement Learning and its applications at Tinkoff.
 - Recommender Systems (esp. using Reinforcement Learning)
 
 ## Publications
+1. **Q-Ensemble for Offline RL: Don't Scale the Ensemble, Scale the Batch Size**   
+*[NeurIPS, 3nd Offline Reinforcement Learning Workshop](https://offline-rl-neurips.github.io/2022/index.html){:target="_blank"}, 2022*  
+*Alexander Nikulin, Vladislav Kurenkov, Denis Tarasov, Dmitry Akimov, Sergey Kolesnikov*  
+[[arXiv]](https://arxiv.org/abs/2211.11096){:target="_blank"}
+
+1. **Let Offline RL Flow: Training Conservative Agents in the Latent Space of Normalizing Flows**   
+*[NeurIPS, 3nd Offline Reinforcement Learning Workshop](https://offline-rl-neurips.github.io/2022/index.html){:target="_blank"}, 2022*  
+*Dmitriy Akimov, Vladislav Kurenkov, Alexander Nikulin, Denis Tarasov, Sergey Kolesnikov*  
+[[arXiv]](https://arxiv.org/abs/2110.04156){:target="_blank"}
+
 1. **Showing Your Offline Reinforcement Learning Work: Online Evaluation Budget Matters**   
 *[ICML, Main, Spotlight](https://proceedings.mlr.press/v162/kurenkov22a.html){:target="_blank"}, 2022*       
 *[NeurIPS, 2nd Offline Reinforcement Learning Workshop](https://offline-rl-neurips.github.io/2021/index.html){:target="_blank"}, 2021*  
