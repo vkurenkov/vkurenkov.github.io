@@ -16,11 +16,9 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/"
- - name: "Resume"
-   link: "resume.pdf"
+ - name: "Google Scholar"
+   link: "https://scholar.google.com/citations?user=w09vtVsAAAAJ&hl=en"
  - name: "Github"
    link: "https://github.com/vkurenkov"
- - name: "All Paper Submissions"
+ - name: "All Paper Submissions (w/ Reviews)"
    link: "https://docs.google.com/spreadsheets/d/1nfNlxieYYpb6yEen2TTqWL_SEz9tmoWTY8KHUtzmN4M/edit#gid=0"
