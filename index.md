@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="avatar.png">
 
-Researching Offline Reinforcement Learning and its applications at Tinkoff.
+Lead Research Scientist @ Reinforcement Learning Team @ Tinkoff
 
 ## Research Interests
 
@@ -15,6 +15,15 @@ Researching Offline Reinforcement Learning and its applications at Tinkoff.
 - Recommender Systems (esp. using Reinforcement Learning)
 
 ## Publications
+1. **Anti-Exploration by Random Network Distillation**   
+*Alexander Nikulin, Vladislav Kurenkov, Denis Tarasov, Sergey Kolesnikov*  
+[[arXiv]]([https://arxiv.org/abs/2211.11096](https://arxiv.org/abs/2301.13616)){:target="_blank"}
+
+1. **CORL: Research-oriented Deep Offline Reinforcement Learning Library**   
+*[NeurIPS, 3nd Offline Reinforcement Learning Workshop](https://offline-rl-neurips.github.io/2022/index.html){:target="_blank"}, 2022*  
+*Denis Tarasov, Alexander Nikulin, Dmitry Akimov, Vladislav Kurenkov, Sergey Kolesnikov*  
+[[arXiv]]([https://arxiv.org/abs/2211.11096](https://arxiv.org/abs/2210.07105)){:target="_blank"} [[src]]([https://github.com/vkurenkov/guided-es-by-differentiable-simulators](https://github.com/tinkoff-ai/CORL)){:target="_blank"}
+
 1. **Q-Ensemble for Offline RL: Don't Scale the Ensemble, Scale the Batch Size**   
 *[NeurIPS, 3nd Offline Reinforcement Learning Workshop](https://offline-rl-neurips.github.io/2022/index.html){:target="_blank"}, 2022*  
 *Alexander Nikulin, Vladislav Kurenkov, Denis Tarasov, Dmitry Akimov, Sergey Kolesnikov*  
