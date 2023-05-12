@@ -16,8 +16,9 @@ Lead Research Scientist @ Reinforcement Learning Team @ Tinkoff
 
 ## Publications
 1. **Anti-Exploration by Random Network Distillation**   
+*[ICML, Main](https://arxiv.org/abs/2211.11096){:target="_blank"}, 2023*     
 *Alexander Nikulin, Vladislav Kurenkov, Denis Tarasov, Sergey Kolesnikov*  
-[[arXiv]]([https://arxiv.org/abs/2211.11096](https://arxiv.org/abs/2301.13616)){:target="_blank"}
+[[arXiv]]([https://arxiv.org/abs/2211.11096](https://arxiv.org/abs/2301.13616)){:target="_blank"} [[src]](https://github.com/tinkoff-ai/sac-rnd){:target="_blank"}
 
 1. **CORL: Research-oriented Deep Offline Reinforcement Learning Library**   
 *[NeurIPS, 3nd Offline Reinforcement Learning Workshop](https://offline-rl-neurips.github.io/2022/index.html){:target="_blank"}, 2022*  
