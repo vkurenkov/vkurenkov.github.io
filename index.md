@@ -15,6 +15,10 @@ Lead Research Scientist @ Reinforcement Learning Team @ Tinkoff
 - Recommender Systems (esp. using Reinforcement Learning)
 
 ## Publications
+1. **Katakomba: Tools and Benchmarks for Data-Driven NetHack**   
+*Vladislav Kurenkov, Alexander Nikulin, Denis Tarasov, Sergey Kolesnikov*  
+[[arXiv]]([https://arxiv.org/abs/2306.08772](https://arxiv.org/abs/2306.08772)){:target="_blank"} [[src]](https://github.com/tinkoff-ai/katakomba){:target="_blank"}
+
 1. **Anti-Exploration by Random Network Distillation**   
 *[ICML, Main](https://arxiv.org/abs/2211.11096){:target="_blank"}, 2023*     
 *Alexander Nikulin, Vladislav Kurenkov, Denis Tarasov, Sergey Kolesnikov*  
