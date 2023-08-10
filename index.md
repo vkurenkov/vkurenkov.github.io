@@ -15,9 +15,13 @@ Lead Research Scientist @ Reinforcement Learning Team @ Tinkoff
 - Recommender Systems (esp. using Reinforcement Learning)
 
 ## Publications
+1. **Revisiting the Minimalist Approach to Offline Reinforcement Learning**   
+*Denis Tarasov, Vladislav Kurenkov, Alexander Nikulin, Sergey Kolesnikov*  
+[[arXiv]]([https://arxiv.org/abs/2305.09836](https://arxiv.org/abs/2305.09836)){:target="_blank"} [[src]](https://github.com/tinkoff-ai/rebrac){:target="_blank"}
+
 1. **Katakomba: Tools and Benchmarks for Data-Driven NetHack**   
 *Vladislav Kurenkov, Alexander Nikulin, Denis Tarasov, Sergey Kolesnikov*  
-[[arXiv]]([https://arxiv.org/abs/2306.08772](https://arxiv.org/abs/2306.08772)){:target="_blank"} [[src]](https://github.com/tinkoff-ai/katakomba){:target="_blank"}
+[[arXiv]]([https://arxiv.org/abs/2306.08772](https://arxiv.org/abs/2306.08772)){:target="_blank"} [[src]](https://github.com/corl-team/katakomba){:target="_blank"}
 
 1. **Anti-Exploration by Random Network Distillation**   
 *[ICML, Main](https://arxiv.org/abs/2211.11096){:target="_blank"}, 2023*     
@@ -27,17 +31,17 @@ Lead Research Scientist @ Reinforcement Learning Team @ Tinkoff
 1. **CORL: Research-oriented Deep Offline Reinforcement Learning Library**   
 *[NeurIPS, 3nd Offline Reinforcement Learning Workshop](https://offline-rl-neurips.github.io/2022/index.html){:target="_blank"}, 2022*  
 *Denis Tarasov, Alexander Nikulin, Dmitry Akimov, Vladislav Kurenkov, Sergey Kolesnikov*  
-[[arXiv]]([https://arxiv.org/abs/2211.11096](https://arxiv.org/abs/2210.07105)){:target="_blank"} [[src]]([https://github.com/vkurenkov/guided-es-by-differentiable-simulators](https://github.com/tinkoff-ai/CORL)){:target="_blank"}
+[[arXiv]]([https://arxiv.org/abs/2211.11096](https://arxiv.org/abs/2210.07105)){:target="_blank"} [[src]](https://github.com/corl-team/CORL){:target="_blank"}
 
 1. **Q-Ensemble for Offline RL: Don't Scale the Ensemble, Scale the Batch Size**   
 *[NeurIPS, 3nd Offline Reinforcement Learning Workshop](https://offline-rl-neurips.github.io/2022/index.html){:target="_blank"}, 2022*  
 *Alexander Nikulin, Vladislav Kurenkov, Denis Tarasov, Dmitry Akimov, Sergey Kolesnikov*  
-[[arXiv]](https://arxiv.org/abs/2211.11096){:target="_blank"}
+[[arXiv]](https://arxiv.org/abs/2211.11096){:target="_blank"} [[src]](https://github.com/tinkoff-ai/lb-sac){:target="_blank"}
 
 1. **Let Offline RL Flow: Training Conservative Agents in the Latent Space of Normalizing Flows**   
 *[NeurIPS, 3nd Offline Reinforcement Learning Workshop](https://offline-rl-neurips.github.io/2022/index.html){:target="_blank"}, 2022*  
 *Dmitriy Akimov, Vladislav Kurenkov, Alexander Nikulin, Denis Tarasov, Sergey Kolesnikov*  
-[[arXiv]](https://arxiv.org/abs/2110.04156){:target="_blank"}
+[[arXiv]](https://arxiv.org/abs/2110.04156){:target="_blank"} [[src]](https://github.com/tinkoff-ai/cnf){:target="_blank"}
 
 1. **Showing Your Offline Reinforcement Learning Work: Online Evaluation Budget Matters**   
 *[ICML, Main, Spotlight](https://proceedings.mlr.press/v162/kurenkov22a.html){:target="_blank"}, 2022*       
