@@ -15,6 +15,11 @@ Lead Research Scientist @ Reinforcement Learning Team @ Tinkoff
 - Recommender Systems (esp. using Reinforcement Learning)
 
 ## Publications
+1. **XLand-MiniGrid: Scalable Meta-Reinforcement Learning Environments in JAX***  
+*[NeurIPS, Intrinsically Motivated Open-ended Learning Workshop](https://arxiv.org/abs/2312.12044){:target="_blank"}, 2023*  
+*Alexander Nikulin, Vladislav Kurenkov, Ilya Zisman, Artem Agarkov, Viacheslav Sinii, Sergey Kolesnikov*  
+[[arXiv]]([https://arxiv.org/abs/2312.12044](https://arxiv.org/abs/2312.12044)){:target="_blank"} [[src]](https://github.com/corl-team/xland-minigrid){:target="_blank"}
+
 1. **Revisiting the Minimalist Approach to Offline Reinforcement Learning***  
 *[NeurIPS](https://arxiv.org/abs/2305.09836){:target="_blank"}, 2023*  
 *Denis Tarasov, Vladislav Kurenkov, Alexander Nikulin, Sergey Kolesnikov*  
